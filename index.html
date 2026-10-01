@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#080808" />
+    <meta name="description" content="Offizieller Download des Sicherheit Nord CRM Prototyps für Android." />
+    <title>Sicherheit Nord CRM – Android-Download</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: #080808;
+        color: #ffffff;
+      }
+
+      * { box-sizing: border-box; }
+
+      body {
+        min-height: 100vh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        padding: 24px;
+        background:
+          radial-gradient(circle at 50% 0%, rgba(197, 17, 38, 0.2), transparent 42%),
+          #080808;
+      }
+
+      main {
+        width: min(100%, 430px);
+        padding: 30px 24px 24px;
+        border: 1px solid #2a2a2a;
+        border-radius: 24px;
+        background: #111111;
+        box-shadow: 0 24px 70px rgba(0, 0, 0, 0.5);
+        text-align: center;
+      }
+
+      .icon {
+        width: 92px;
+        height: 92px;
+        border-radius: 22px;
+        display: block;
+        margin: 0 auto 20px;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.45);
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(1.7rem, 7vw, 2.2rem);
+        line-height: 1.1;
+      }
+
+      .subtitle {
+        margin: 10px 0 24px;
+        color: #bdbdbd;
+        line-height: 1.55;
+      }
+
+      .download {
+        min-height: 58px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding: 14px 18px;
+        border-radius: 14px;
+        background: #c51126;
+        color: #ffffff;
+        font-size: 1.05rem;
+        font-weight: 750;
+        text-decoration: none;
+        box-shadow: 0 10px 26px rgba(197, 17, 38, 0.25);
+      }
+
+      .download:active { transform: translateY(1px); }
+
+      .version {
+        margin: 13px 0 0;
+        color: #8d8d8d;
+        font-size: 0.88rem;
+      }
+
+      ol {
+        margin: 26px 0 0;
+        padding: 20px 20px 20px 42px;
+        border-radius: 16px;
+        background: #181818;
+        color: #dddddd;
+        text-align: left;
+        line-height: 1.5;
+      }
+
+      li + li { margin-top: 8px; }
+
+      .note {
+        margin: 18px 0 0;
+        color: #9d9d9d;
+        font-size: 0.86rem;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <img class="icon" src="app-icon.png" alt="Sicherheit Nord App-Icon" width="92" height="92" />
+      <h1>Sicherheit Nord CRM</h1>
+      <p class="subtitle">Android-Prototyp herunterladen und die bereits installierte App aktualisieren.</p>
+
+      <a
+        class="download"
+        href="https://github.com/matteohaudenschild/sicherheit-nord-crm-download/releases/latest/download/Sicherheit-Nord-CRM.apk"
+        download
+      >
+        APK herunterladen
+      </a>
+      <p class="version">Version 0.2.0 · Android</p>
+
+      <ol>
+        <li>APK herunterladen und anschließend öffnen.</li>
+        <li>Bei der Android-Abfrage auf <strong>Aktualisieren</strong> drücken.</li>
+        <li>Die bestehende App vorher nicht deinstallieren.</li>
+      </ol>
+
+      <p class="note">Prototyp für die interne Vorführung. Enthält keine echten Kundendaten.</p>
+    </main>
+  </body>
+</html>
