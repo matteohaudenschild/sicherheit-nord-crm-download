@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "appId": "de.sicherheitnord.crm.demo",
-  "latestVersion": "0.3.3",
+  "latestVersion": "0.3.4",
   "nativeVersionCode": 4,
-  "bundleId": "sn-crm-web-0.3.3-8060460f",
-  "bundleUrl": "https://matteohaudenschild.github.io/sicherheit-nord-crm-download/updates/Sicherheit-Nord-CRM-web-0.3.3.zip",
-  "sha256": "8060460f4b9e0df348271696b05ee7d028d98eac80564ab8edeb038c3e12f4a5"
+  "bundleId": "sn-crm-web-0.3.4-fd2c3759",
+  "bundleUrl": "https://matteohaudenschild.github.io/sicherheit-nord-crm-download/updates/Sicherheit-Nord-CRM-web-0.3.4.zip",
+  "sha256": "fd2c3759dac3797347ef2aef227190d872d7656405c767102cbb78874f692ab1"
 }

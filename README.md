@@ -7,11 +7,11 @@ Die APK ist direkt über die GitHub-Pages-Downloadseite und zusätzlich als GitH
 ## Aktuelle Version
 
 - Android-APK: `0.3.2` · versionCode `4`
-- Aktives Web-Update für den neuen Updatekanal: `0.3.3`
+- Aktives Web-Update für den neuen Updatekanal: `0.3.4`
 - Paket: `de.sicherheitnord.crm.demo`
 - SHA-256: `2F02D751FBCE4FA3B22E8B4B79477030FA1D934AE0FF10275D59AE449AA4D5D2`
 
-`update-manifest-v4.json` ist der Updatekanal für APK 0.3.2 / versionCode 4. Er liefert aktuell die Oberfläche 0.3.3 über WLAN oder mobile Daten. `update-manifest.json` bleibt aus Kompatibilitätsgründen beim bisherigen versionCode-3-Kanal.
+`update-manifest-v4.json` ist der Updatekanal für APK 0.3.2 / versionCode 4. Er liefert aktuell die Oberfläche 0.3.4 über WLAN oder mobile Daten. `update-manifest.json` bleibt aus Kompatibilitätsgründen beim bisherigen versionCode-3-Kanal.
 
 ## Download
 
