@@ -2,15 +2,15 @@
 
 Offizielle Downloadseite für den Android-Prototypen von Sicherheit Nord CRM.
 
-Die APK wird ausschließlich als GitHub-Release bereitgestellt und ist nicht Teil des Repository-Verlaufs.
+Die APK ist direkt über die GitHub-Pages-Downloadseite und zusätzlich als GitHub-Release verfügbar.
 
 ## Aktuelle Version
 
-- Android-APK: `0.2.0` · versionCode `2`
-- Aktives Web-Update: `0.3.0`
+- Android-APK: `0.3.1` · versionCode `3`
+- Aktives Web-Update: `0.3.1`
 - Paket: `de.sicherheitnord.crm.demo`
-- SHA-256: `F31F27EE199523DC4D46F741029C90219E59BC27B3CDF416D24AAFE32114A43E`
+- SHA-256: `89EAE61177DD3E3340EA1112D9AEC3C09D3D1178D0B1ADB32FFC915F670FE0F3`
 
 ## Download
 
-[Sicherheit-Nord-CRM.apk](https://github.com/matteohaudenschild/sicherheit-nord-crm-download/releases/latest/download/Sicherheit-Nord-CRM.apk)
+[Sicherheit-Nord-CRM.apk](https://matteohaudenschild.github.io/sicherheit-nord-crm-download/Sicherheit-Nord-CRM.apk)
