@@ -6,7 +6,8 @@ Die APK wird ausschließlich als GitHub-Release bereitgestellt und ist nicht Tei
 
 ## Aktuelle Version
 
-- Version: `0.2.0`
+- Android-APK: `0.2.0` · versionCode `2`
+- Aktives Web-Update: `0.3.0`
 - Paket: `de.sicherheitnord.crm.demo`
 - SHA-256: `F31F27EE199523DC4D46F741029C90219E59BC27B3CDF416D24AAFE32114A43E`
 
